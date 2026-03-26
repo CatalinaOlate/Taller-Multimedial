@@ -80,7 +80,7 @@ MULTIMEDIAL
 
 Ejercicio 1, Semana 2:
 
-´´´
+```
 <!DOCTYPE html>
 <html lang="es">
 <head>
