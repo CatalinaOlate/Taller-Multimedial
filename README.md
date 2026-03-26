@@ -3,6 +3,8 @@
 #### Exploración creativa de arte, tecnología y medios digitales interactivos.
 ##### Cultura web y arte digital.
 
+# Indice
+
 Ejercicio 1, semana 1:
 
 ```
@@ -75,3 +77,43 @@ MULTIMEDIAL
 </html>
 <!-- Fin del documento HTML -->
 ```
+
+Ejercicio 1, Semana 2:
+´´´
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>Mi sitio</title>
+<meta charset="UTF-8">
+</head>
+<title>Mi Sitio</title>
+<body>
+
+<h1>Página principal</h1>
+
+<a href="pagina2.html">Ir a la segunda página</a>
+
+</body>
+</html>
+´´´
+
+Ejercicio 2, Semana 2:
+´´´
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Página 2</title>
+
+</head>
+
+<body>
+
+<h1>Esta es la segunda página</h1>
+
+<a href="index.html">Volver a la página principal</a>
+<!--<a href="index.html" target="_blank">Volver a la página principal</a>-->
+
+</body>
+</html>
+´´´
