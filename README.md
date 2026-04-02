@@ -1,13 +1,18 @@
-# Taller-Multimedial
+Taller-Multimedial
 
 #### Exploración creativa de arte, tecnología y medios digitales interactivos.
 ##### Cultura web y arte digital.
 
 # Indice
+Semana 1
+Semana 2
+Semana 3
+Semana 4
 
-Semana 1:
 
-Página Principal
+## Semana 1:
+
+### Página Principal
 ```
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
@@ -79,9 +84,10 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 ```
 
-Semana 2:
 
-Página 1
+## Semana 2:
+
+### Página 1
 ```
 <!DOCTYPE html>
 <html lang="es">
@@ -99,7 +105,8 @@ Página 1
 </body>
 </html>
 ```
-Página 2
+
+### Página 2
 ```
 <!DOCTYPE html>
 <html lang="es">
@@ -120,9 +127,9 @@ Página 2
 </html>
 ```
 
-Semana 3:
+## Semana 3:
 
-Página Principal
+### Página Principal
 ```
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
@@ -232,7 +239,7 @@ Página Principal
 <!-- Fin del documento HTML -->
 ```
 
-Obra
+### Obra
 ```
 <!DOCTYPE html>
 <html>
@@ -341,4 +348,39 @@ Obra
 
 </body>
 </html>
+```
+
+### Contacto
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contacto</title>
+</head>
+
+<body>
+
+<h1>Contacto</h1>
+
+<img src="contacto.jpg" alt="Imagen de contacto" width="300">
+
+<p>email@email.com</p>
+
+<a href="index.html">Inicio</a><br>
+<a href="obra.html">Obra</a>
+
+</body>
+</html>
+```
+
+## Semana 4
+
+###
+```
+```
+
+## Semana
+
+###
+```
 ```
