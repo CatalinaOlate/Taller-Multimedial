@@ -12,7 +12,7 @@ Semana 4
 
 ## Semana 1:
 
-### Página Principal
+#### Página Principal
 ```
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
@@ -87,7 +87,7 @@ MULTIMEDIAL
 
 ## Semana 2:
 
-### Página 1
+#### Página 1
 ```
 <!DOCTYPE html>
 <html lang="es">
@@ -106,7 +106,7 @@ MULTIMEDIAL
 </html>
 ```
 
-### Página 2
+#### Página 2
 ```
 <!DOCTYPE html>
 <html lang="es">
@@ -129,7 +129,7 @@ MULTIMEDIAL
 
 ## Semana 3:
 
-### Página Principal
+#### Página Principal
 ```
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
@@ -239,7 +239,7 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 ```
 
-### Obra
+#### Obra
 ```
 <!DOCTYPE html>
 <html>
@@ -350,7 +350,7 @@ MULTIMEDIAL
 </html>
 ```
 
-### Contacto
+#### Contacto
 ```
 <!DOCTYPE html>
 <html>
@@ -375,12 +375,12 @@ MULTIMEDIAL
 
 ## Semana 4
 
-###
+####
 ```
 ```
 
 ## Semana
 
-###
+####
 ```
 ```
