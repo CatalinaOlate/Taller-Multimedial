@@ -375,12 +375,328 @@ MULTIMEDIAL
 
 ## Semana 4
 
-####
+#### Index
 ```
+<!DOCTYPE html>
+<!-- Indica al navegador que este documento usa HTML5 -->
+
+<html>
+<!-- Inicio del documento HTML -->
+
+<head>
+<!-- Sección donde van metadatos, título y estilos -->
+
+   <meta charset="UTF-8">
+   <!-- Define la codificación de caracteres para que se vean bien tildes y símbolos -->
+
+   <title>Multimedial</title>
+   <!-- Título de la página que aparece en la pestaña del navegador -->
+  
+   <style>
+   /* Aquí comienza la sección de estilos CSS que define la apariencia visual */
+
+      body{
+     /* "body" se refiere a todo el contenido visible de la página */
+       font-family: Arial, sans-serif;
+       background-color: #222222;
+       color: #787878;
+       /* Define que el color del texto sea negro */
+       margin: 0;
+       /* Elimina los márgenes que los navegadores agregan por defecto */
+       height: 100vh;
+       /* Hace que el alto del cuerpo sea igual al 100% de la altura de la pantalla */
+       display: flex;
+       /* Activa el sistema Flexbox para organizar y centrar elementos */
+       justify-content: center;
+       /* Centra el contenido horizontalmente */
+       align-items: center;
+       /* Centra el contenido verticalmente */
+       font-family: Arial, sans-serif;
+       /* Define la tipografía del texto */
+       font-size: 100%;
+        /* Define el tamaño grande del texto */
+        }
+       /* Fin de las reglas de estilo del body */
+
+        /* Contenedor principal */
+        .contenedor {
+            width: 50%;
+            margin: auto;
+        }
+
+        /* Sección o bloque */
+        .bloque {
+            background-color: #222222;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        /* Imagen */
+        .bloque img {
+            width: 80%;
+            height: auto;
+        }
+
+        /* Encabezado */
+        .bloque h2 {
+            margin-top: 10px;
+        }
+
+        /* Texto */
+        .bloque p {
+            line-height: 1.5;
+        }
+
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: red;
+}
+
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: red;
+}
+
+</style>
+<!-- Fin de la sección de estilos -->
+
+</head>
+<!-- Fin de la sección head -->
+
+<body>
+
+
+<!-- Inicio del contenido visible de la página -->
+
+ <!-- Contenedor principal -->
+    <div class="contenedor">
+            <div class="navbar">
+
+  <a href="index.html">Inicio</a>
+  <a href="#">Proyectos</a>
+     </div>
+
+        <!-- BLOQUE 1 -->
+        <div class="bloque">
+            <img src="img/portada.jpg" alt="Descripción de la imagen">
+            <h2>Catalina Olate</h2>
+            <p>
+                Hablo desde la corporalidad en un contexto en el que el cuerpo y su percepción deja de ser algo rigido y limitado.
+            </p>
+              <a href="obra.html">Obra</a><br> 
+  <!-- Enlace a otra página llamada "obra.html" -->
+  <!-- <br> agrega un salto de línea -->
+
+  <a href="contacto.html">Contacto</a> 
+ <!-- Enlace a otra página llamada "contacto.html" -->
+
+        </div>
+  <br><br> <!-- Saltos de línea para generar espacio -->
+
+</body>
+<!-- Fin del contenido visible -->
+
+</html>
+<!-- Fin del documento HTML -->
+```
+
+#### Obra
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Obra</title>
+<style>
+
+
+            /* Estilo general del cuerpo */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #474747;
+            color: #787878;
+            margin: 20;
+            display: flex; /* Activa flexbox */
+            justify-content: center; /* Centra horizontalmente */
+            align-items: center; /* Centra verticalmente */
+            height: 100vh; /* Altura total de la pantalla (viewport height) */
+        }
+
+  .caja { /* Elemento que será centrado */
+  background-color: black; /* Fondo negro */
+  color: white; /* Texto blanco */
+  padding: 10px; /* Espacio interno */
+   }
+
+
+        /* Contenedor principal */
+        .contenedor {
+            width: 60%;
+            margin: auto;
+            display: flex; /* Activa flexbox: organiza los hijos en fila */
+             justify-content: center; /* Centra horizontalmente */
+             align-items: center; /* Centra verticalmente */
+             height: 100vh; /* Altura total de la pantalla (viewport height) */
+        }
+
+        .caja { /* Clase para cada bloque */
+            background-color: lightgreen; /* Color de fondo */
+         padding: 20px; /* Espacio interno */
+        }
+
+         
+
+        /* Sección o bloque */
+        .bloque {
+            justify-content: center; /* Centra horizontalmente */
+            background-color: rgb(40, 40, 40);
+            margin: 40px 40px;
+            padding: 80px;
+            border-radius: 20px;
+        }
+
+        /* Imagen */
+        .bloque img {
+            width: 100%;
+            height: 40%;
+        }
+
+        /* Encabezado */
+        .bloque h2 {
+            margin-top: 10px;
+        }
+
+        /* Texto */
+        .bloque p {
+            
+            line-height: 1.5;
+        }
+    
+
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: red;
+}
+
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: red;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+
+  <a href="index.html">Inicio</a>
+  <a href="#">Proyectos</a>
+     </div>
+
+
+    <!-- Contenedor principal -->
+    <div class="contenedor">
+
+
+
+        <!-- BLOQUE 1 -->
+        <div class="bloque">
+        
+            <img src="img/imagen1.JPG" alt="Descripción de la imagen">
+            <img src="img/imagen2.JPG" alt="Descripción de la imagen">
+            <img src="img/imagen3.JPG" alt="Descripción de la imagen">
+
+            <h2>Cuerpos Fantasmas</h2>
+            <p>
+                2024
+ 
+                 Fotografía.
+                 Coautor junto con Alex Correa y Mocka Águila.
+            </p>
+        </div>
+
+        <!-- BLOQUE 2 -->
+        <div class="bloque">
+            <img src="img/imagen4.jpg" alt="Descripción de la imagen">
+            <h2>Psique y Soma</h2>
+            <p>
+               2026
+
+               Acrílico sobre lienzo
+            </p>
+            <p>Descripción de mi trabajo artístico</p>
+        </div>
+
+        <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/imagen5.JPG" alt="Descripción de la imagen">
+            <img src="img/imagen6.JPG" alt="Descripción de la imagen">
+            <img src="img/imagen7.JPG" alt="Descripción de la imagen">
+            <h2>Cuerpo-Objeto</h2>
+            <p>
+               2025
+               
+               Fotografía.
+            </p>
+        </div>
+
+    </div>
+</body>
+</html>
 ```
 
 ## Semana
 
+####
+```
+```
 ####
 ```
 ```
