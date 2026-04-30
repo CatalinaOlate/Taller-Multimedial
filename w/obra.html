@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Obra</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #1a1a1a; /* Un gris más oscuro para que resalte el arte */
+            color: #bcbcbc;
+            margin: 0;
+            padding-top: 60px; /* Espacio para que el menú fijo no tape el contenido */
+        }
+
+        /* --- MENÚ DE NAVEGACIÓN --- */
+        .navbar {
+            background-color: #000;
+            position: fixed; /* Se queda arriba siempre */
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+            display: flex;
+            justify-content: center;
+        }
+
+        .navbar a {
+            color: white;
+            text-align: center;
+            padding: 15px 25px;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+
+        .navbar a:hover {
+            background-color: #474747;
+            color: #fff;
+        }
+
+        /* --- CONTENEDOR DE GALERÍA --- */
+        .contenedor-galeria {
+            max-width: 1200px;
+            margin: 40px auto;
+            display: grid;
+            /* Crea columnas automáticas de al menos 300px */
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            padding: 20px;
+        }
+
+        /* --- BLOQUES DE OBRA --- */
+        .bloque {
+            background-color: #282828;
+            padding: 20px;
+            border-radius: 15px;
+            transition: transform 0.3s ease;
+        }
+
+        .bloque:hover {
+            transform: translateY(-5px); /* Efecto sutil al pasar el mouse */
+        }
+
+        .bloque img {
+            width: 100%;
+            height: 250px; /* Altura fija para uniformidad */
+            object-fit: cover; /* Recorta la imagen para que llene el espacio sin deformarse */
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        /* Si quieres que algunas imágenes no se corten, usa object-fit: contain; */
+
+        .bloque h2 {
+            font-size: 1.4rem;
+            color: #fff;
+            margin: 15px 0 5px 0;
+        }
+
+        .bloque p {
+            font-size: 0.9rem;
+            line-height: 1.6;
+            white-space: pre-line; /* Respeta los saltos de línea del texto */
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <a href="index.html">Inicio</a>
+    
+        <a href="#">Contacto</a>
+    </nav>
+
+    <div class="contenedor-galeria">
+
+        <div class="bloque">
+            <img src="img/imagen1.JPG" alt="Cuerpos Fantasmas">
+            <h2>Cuerpos Fantasmas</h2>
+            <p>2024
+            Fotografía.
+            Coautor: Alex Correa y Mocka Águila.</p>
+        </div>
+
+        <div class="bloque">
+            <img src="img/imagen4.jpg" alt="Psique y Soma">
+            <h2>Psique y Soma</h2>
+            <p>2026
+            Acrílico sobre lienzo.</p>
+        </div>
+
+        <div class="bloque">
+            <img src="img/imagen5.JPG" alt="Cuerpo-Objeto">
+            <h2>Cuerpo-Objeto</h2>
+            <p>2025
+            Fotografía.</p>
+        </div>
+
+        <div class="bloque">
+            <img src="img/imagen8.jpg" alt="Materialización Mental">
+            <h2>Materialización Mental</h2>
+            <p>2026
+            Acrílico sobre lienzo, pulpa de papel, harina y pegamento.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
