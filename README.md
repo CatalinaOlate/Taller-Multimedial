@@ -3,13 +3,9 @@ Taller-Multimedial
 #### Exploración creativa de arte, tecnología y medios digitales interactivos.
 ##### Cultura web y arte digital.
 
-# Indice
-Semana 1
-Semana 2
-Semana 3
-Semana 4
 
 
+# Página web
 ## Semana 1:
 
 #### Página Principal
@@ -691,12 +687,38 @@ MULTIMEDIAL
 </body>
 </html>
 ```
+# Guión
 
-## Semana
+# Storyboard
 
-####
+# Reflexión Dona Haraway
 ```
+Lo que más me llamó la atención del documental es como se cuenta.
+Donna Harraway es una persona muy expresiva, y se da a entender perfectamente tanto por su rostro, sus manos y sus palabras. También percibí que era genuina y transparente, en el sentido de que en ocasiones hubo interrupciones que en una producción se tendrían que repetir o cortar de la producción final, además de relatar situaciones y experiencias personales que no cualquiera contaría tan libremente, y eso hace sentir una cercanía hacia ellx.
+Otro elemento llamativo es la edición del documental en sí. usa recursos visuales explicitos y sutíles, como la aparición de medusas gigantes, movimientos de cámara, desplazamiento y cambio de fondos, e incluso pantalla verde o la aparición de la artista en el fondo. También el documental cuenta con diferentes secciones (Entrevista, retrospectivas, videos, narrativas, etc) que enriquece aquello que la artista quiere contar.
+
+
+
+Minutajes
+8:50 Cambio de fondo
+19:10 Koko el gorila
+23:15 El fondo gira horizontalmente hacia la derecha
+39:40 El fondo gira horizontalmente hacia la izquierda
+43:45 Cambio de fondo
+44:50 medusa
+49:30 “trabajamos con lo que tenemos”
+49:40 El fondo se desplaza hacia abajo
+53:00 Cambio de fondo
+53:48  / 54:33 Medusa
+58:05 El fondo se aleja
+1:05:05 pantalla verde
 ```
-####
-```
-```
+
+# TouchDesigner
+## Mappin
+
+## Lsystem
+
+# Comfy Desktop
+## Prompts e imagenes
+
