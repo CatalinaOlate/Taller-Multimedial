@@ -7,9 +7,9 @@
 1. [Página web](#página-web) <br>
 2. [Guión](#guión) <br>
 3. [Storyboard](#storyboard) <br>
-4. [Reflexión Donna Harraway]() <br>
+4. [Reflexión Donna Harraway](#reflexión-donna-harraway) <br>
 5. [TouchDesigner](#touchdesigner) <br>
-6. [ComfyDesktop]() <br>
+6. [ComfyDesktop](#comfy-desktop) <br>
 
 ## Página web
 ### Semana 1:
@@ -751,7 +751,7 @@ Una imagen sobre piel, que representa procesos internos en el cuerpo humano.
 Visualmente abstracta. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos extra.
 ```
-<img src="https://raw.githubusercontent.com/CatalinaOlate/Taller-Multimedial/refs/heads/main/Imágenes%20Prompts/1.png"/>
+<img src=""/>
 
 ```
 Prompt 2
@@ -760,6 +760,7 @@ Visualmente realista. La composición es cerrada, en plano a detalle, con una at
 Sin elementos extra.
 ```
 <img src=""/>
+
 ```
 Prompt 3
 Una imagen sobre un acercamiento a la piel, que representa procesos internos en el cuerpo humano.
