@@ -751,7 +751,7 @@ Una imagen sobre piel, que representa procesos internos en el cuerpo humano.
 Visualmente abstracta. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos extra.
 ```
-<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imágenes%20Prompts/1.png"/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imágenes%20Prompts/1.png?raw=true"/>
 
 ```
 Prompt 2
