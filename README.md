@@ -4,7 +4,7 @@
 ##### Cultura web y arte digital.
 
 # Indice
-1. [Página web]() <br>
+1. [Página web](#página-web) <br>
 2. [Guión] <br>
 3. [Storyboard]
 4. [Reflexión Dona Harraway] <br>
