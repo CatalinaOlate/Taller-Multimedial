@@ -6,10 +6,10 @@
 # Indice
 1. [Página web](#página-web) <br>
 2. [Guión](#guión) <br>
-3. [Storyboard]
-4. [Reflexión Dona Harraway] <br>
-5. [Touch Designer] <br>
-6. [Comfy] <br>
+3. [Storyboard](#storyboard) <br>
+4. [Reflexión Donna Harraway]() <br>
+5. [TouchDesigner](#touchdesigner) <br>
+6. [ComfyDesktop]() <br>
 
 ## Página web
 ### Semana 1:
@@ -716,7 +716,7 @@ En ese contacto silencioso, el cuerpo encontraba refugio.
 ## Storyboard
 ```
 ```
-## Reflexión Dona Harraway
+## Reflexión Donna Harraway
 ```
 Lo que más me llamó la atención del documental es como se cuenta.
 Donna Harraway es una persona muy expresiva, y se da a entender perfectamente tanto por su rostro, sus manos y sus palabras. También percibí que era genuina y transparente, en el sentido de que en ocasiones hubo interrupciones que en una producción se tendrían que repetir o cortar de la producción final, además de relatar situaciones y experiencias personales que no cualquiera contaría tan libremente, y eso hace sentir una cercanía hacia ellx.
