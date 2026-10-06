@@ -4,8 +4,8 @@
 ##### Cultura web y arte digital.
 
 
-# Página web
-## Semana 1:
+## Página web
+### Semana 1:
 
 #### Página Principal
 ```
@@ -706,10 +706,10 @@ En la quietud de una habitación, el cuerpo se recogía sobre sí mismo, guardan
 que no podía ser dicho.
 En ese contacto silencioso, el cuerpo encontraba refugio.
 ```
-# Storyboard
+## Storyboard
 ```
 ```
-# Reflexión Dona Haraway
+## Reflexión Dona Harraway
 ```
 Lo que más me llamó la atención del documental es como se cuenta.
 Donna Harraway es una persona muy expresiva, y se da a entender perfectamente tanto por su rostro, sus manos y sus palabras. También percibí que era genuina y transparente, en el sentido de que en ocasiones hubo interrupciones que en una producción se tendrían que repetir o cortar de la producción final, además de relatar situaciones y experiencias personales que no cualquiera contaría tan libremente, y eso hace sentir una cercanía hacia ellx.
@@ -730,14 +730,14 @@ Minutajes
 1:05:05 pantalla verde
 ```
 
-# TouchDesigner
-## Mappin
+## TouchDesigner
+### Mappin
 
-## Lsystem
+### Lsystem
 
 
-# Comfy Desktop
-## Prompts e imagenes
+## Comfy Desktop
+### Prompts e imágenes
 ```
 Prompt 1 
 Una imagen sobre piel, que representa procesos internos en el cuerpo humano.
@@ -799,34 +799,28 @@ Visualmente abstracta, donde no se distingue la parte del cuerpo pero si los por
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles.
 ```
 ```
-Prompt 10
+Prompt 11
 Una imagen de acercamiento a la piel desde una muy corta distancia, que representa procesos y conflictos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue el cuerpo pero si los poros, venas, cicatrices, heridas e imperfecciones de la piel, en el que intervienen elementos textiles como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles.
 ```
 ```
-Prompt 11
+Prompt 12
 Una imagen de acercamiento a la piel desde una muy corta distancia, que representa procesos y conflictos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue el cuerpo pero si los poros, venas, cicatrices, heridas e imperfecciones de la piel, fusionando texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación.
 Sin otros elementos distinguibles ni realistas.
 ```
 ```
-Prompt 12
+Prompt 13
 Una imagen de acercamiento a la piel desde una muy corta distancia, que representa procesos y conflictos internos en el cuerpo humano por medio de tecnicas textiles.
 Visualmente abstracta, donde se reemplaza la piel los poros, venas, cicatrices, heridas e imperfecciones de la piel, por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
 ```
 ```
-Prompt 13
-Una imagen que representa procesos y conflictos internos en el cuerpo humano por medio de tecnicas textiles y la abstracción.
-Visualmente abstracta y deformada, donde se reemplaza la piel, los poros, venas, cicatrices, heridas e imperfecciones de la piel, por texturas como hilos, telas y costuras.
-La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
-```
 Prompt 14
 Una imagen que representa procesos y conflictos internos en el cuerpo humano por medio de tecnicas textiles y la abstracción.
-Visualmente abstracta y deformada, donde se elimina la figura humana y elementos como la piel, los poros, venas, cicatrices, heridas e imperfecciones de la piel se reemplazan por texturas como hilos, telas y costuras.
+Visualmente abstracta y deformada, donde se reemplaza la piel, los poros, venas, cicatrices, heridas e imperfecciones de la piel, por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
 ```
 ```
@@ -837,72 +831,74 @@ La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y 
 ```
 ```
 Prompt 16
+Una imagen que representa procesos y conflictos internos en el cuerpo humano por medio de tecnicas textiles y la abstracción.
+Visualmente abstracta y deformada, donde se elimina la figura humana y elementos como la piel, los poros, venas, cicatrices, heridas e imperfecciones de la piel se reemplazan por texturas como hilos, telas y costuras.
+La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
+```
+```
+Prompt 17
 Una imagen que representa procesos y conflictos internos desde la piel por medio de tecnicas textiles y la abstracción.
 Visualmente abstracta y deformada, donde las cicatrices, heridas e imperfecciones de la piel se reemplazan por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
 ```
 ```
-Prompt 16
+Prompt 18
 Una imagen que representa tecnicas textiles y la abstracción haciendo una analogía desde la piel.
 Visualmente abstracta y deformada, donde las cicatrices, heridas e imperfecciones de la piel se reemplazan por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
 ```
 ```
-Prompt 17
+Prompt 19
 Una imagen que representa tecnicas textiles y la abstracción 
 Visualmente abstracta y deformada, aparecen texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
 ```
 ```
-Prompt 18
+Prompt 20
 Una imagen que representa tecnicas textiles y la abstracción 
 Visualmente abstracta y deformada, aparecen texturas como hilos, telas desgarradas y costuras. de apariencia desordenada y caotica.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
 ```
 ```
-Prompt 19
+Prompt 21
 Una imagen que representa tecnicas textiles y la abstracción 
 Visualmente abstracta y deformada, aparecen texturas como hilos, telas desgarradas y costuras mal hechas. de apariencia desordenada y caotica.
 La composición es muy cerrada, en plano a detalle, con una atmósfera cálida y baja iluminación. Sin otros elementos distinguibles ni realistas.
 ```
 ```
-Prompt 19
+Prompt 22
 Una imagen que representa tecnicas textiles y la abstracción 
 Visualmente abstracta y deformada, aparecen texturas como hilos, telas desgarradas y costuras mal hechas, de apariencia desordenada, caotica y visceral.
 La composición es muy cerrada, en plano a detalle, con una atmósfera cálida y baja iluminación. 
 ```
 ```
-Prompt 20
+Prompt 23
 An image representing textile techniques and abstraction.
 Visually abstract and distorted, it features textures such as threads, torn fabrics, and crude stitching, creating a chaotic, visceral, and disheveled appearance.
 The composition is tightly framed—a close-up shot—set in a warm atmosphere with low lighting.
 ```
 ```
-Prompt 21
+Prompt 24
 An image representing textile techniques and abstraction.
 Visually abstract and distorted, it features textures such as threads, torn and frayed fabrics, and crude stitching, creating a chaotic, visceral, and disheveled appearance.
 The composition is tightly framed—a close-up shot—set in a warm backlit atmosphere.
 ```
 ```
-Prompt 22
+Prompt 25
 An image representing textile techniques and abstraction.
 Visually abstract and distorted, it features textures such as threads, torn and frayed fabrics, and crude stitching, creating a chaotic, visceral, and disheveled appearance.
 The composition is tightly framed—a close-up shot—set in a warm backlit atmosphere that gives it the appearance of a painting
 ```
 ```
-Prompt 23
+Prompt 26
 A visually abstract and distorted image featuring textures such as threads, torn and frayed fabrics, and seams with a disordered, chaotic, and visceral appearance.
 ```
 ```
-Prompt 23
+Prompt 27
 destroyed fabric
 ```
 ```
-Prompt 24
+Prompt 28
 destroyed and shredded fabric
 ```
 ```
-Prompt 25
-Chaotic stitching, with threads running in various directions to join a torn fabric. Warm colors.
-```
-
