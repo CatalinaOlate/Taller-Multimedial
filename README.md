@@ -5,7 +5,7 @@
 
 # Indice
 1. [Página web](#página-web) <br>
-2. [Guión] <br>
+2. [Guión](#guión) <br>
 3. [Storyboard]
 4. [Reflexión Dona Harraway] <br>
 5. [Touch Designer] <br>
@@ -751,13 +751,14 @@ Una imagen sobre piel, que representa procesos internos en el cuerpo humano.
 Visualmente abstracta. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos extra.
 ```
-https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imágenes%20Prompts/1.png?raw=true
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imágenes%20Prompts/1.png?raw=true"/>
 ```
 Prompt 2
 Una imagen sobre un acercamiento a la piel, que representa procesos internos en el cuerpo humano.
 Visualmente realista. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos extra.
 ```
+<img src=""/>
 ```
 Prompt 3
 Una imagen sobre un acercamiento a la piel, que representa procesos internos en el cuerpo humano.
