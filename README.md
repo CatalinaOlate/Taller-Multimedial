@@ -80,7 +80,7 @@ MULTIMEDIAL
 ```
 
 
-## Semana 2:
+### Semana 2:
 
 #### Página 1
 ```
@@ -122,7 +122,7 @@ MULTIMEDIAL
 </html>
 ```
 
-## Semana 3:
+### Semana 3:
 
 #### Página Principal
 ```
@@ -368,7 +368,7 @@ MULTIMEDIAL
 </html>
 ```
 
-## Semana 4
+### Semana 4
 
 #### Index
 ```
@@ -686,7 +686,7 @@ MULTIMEDIAL
 </body>
 </html>
 ```
-# Guión
+## Guión
 ```
 Un ser descansaba desnudo sobre el colchón, presentaba incisiones y marcas ardientes
 sobre su cuerpo, algunas de ellas todavía sangraban, en otras había intentado juntar los
