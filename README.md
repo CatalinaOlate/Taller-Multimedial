@@ -929,6 +929,7 @@ Mi obra busca un diálogo entre la materialidad textil y los procesos a los que 
 En mi obra trabajo la materia textil como una analogía a la piel. Es un tejido poroso, maleable, sensible a la luz y al tacto. Una tela rasgada, deshilachada, anudada o teñida, conserva de manera irreversible la huella del procedimiento técnico al que fue sometida. Es así que la materialidad textil funciona como una extensión del yo piel al ser manipulada, anudada o tejida, la materia absorbe y proyecta los estados internos del cuerpo. Con esto no me refiero a que la materia aparente ser piel, sino que la tela en sí misma, por medio de sus propiedades físicas y la interacción que se tiene con ella, es equiparable a la piel y a los significados que ella implica. La materialidad y los procesos instalativos logran dar forma a conflictos no visibles al desplazar el problema desde la abstracción del discurso verbal hacia la densidad del cuerpo vivido
 
 ### Boceto
+- Link: (https://docs.google.com/document/d/1650SeHglLiJzh8jT3097IZR-_LBfnnprh43Yso2rQiY/edit?tab=t.0)
 
 ### Proyecto en TouchDesigner
 - Ejercicios: (https://drive.google.com/drive/folders/1McbCyqnrjRYxk9on3EZhM21jlKmzxWzE?usp=drive_link)
