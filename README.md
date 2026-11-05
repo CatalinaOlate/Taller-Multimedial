@@ -919,10 +919,13 @@ destroyed fabric
 Prompt 28
 destroyed and shredded fabric
 ```
-```
-## Proyecto Final
-### Propuesta
-### Boceto
-### Proyecto en Touch
-- Ejercicios: ()
 
+## Proyecto Final
+### Propuesta Conceptual
+#### Para esta obra usaré una tela colgada desde el techo y que será intervenida con cortes y costuras, en la cual proyectaré un video en el que se muestran distintas imagenes de forma secuencial. Dichas imagenes son planos a detalle de obras propias e imagenes creadas mediante el programa Comfy. Todas las imagenes serán modificadas, distorsionadas mediante el programa TouchDesigner. En el video, estarán acompañadas por sonidos ambiente, como crujidos, sonidos de tela y rasgaduras, el sonido de hacer las costuras y similares, con el objetivo de generar un ambiente visual y sonoro.
+### Boceto
+### Proyecto en TouchDesigner
+- Ejercicios: (https://drive.google.com/drive/folders/1McbCyqnrjRYxk9on3EZhM21jlKmzxWzE?usp=drive_link)
+
+### Material Audiovisual
+- Ejercicios: (https://drive.google.com/drive/folders/1Ofz_YGi4x8TF9_-PwdKz5hat7f4n62Ub?usp=drive_link)
