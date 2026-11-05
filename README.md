@@ -722,7 +722,7 @@ En ese contacto silencioso, el cuerpo encontraba refugio.
 ```
 # Segundo Semestre
 ## Reflexión Donna Harraway
-```
+
 Lo que más me llamó la atención del documental es como se cuenta.
 Donna Harraway es una persona muy expresiva, y se da a entender perfectamente tanto por su rostro, sus manos y sus palabras. También percibí que era genuina y transparente, en el sentido de que en ocasiones hubo interrupciones que en una producción se tendrían que repetir o cortar de la producción final, además de relatar situaciones y experiencias personales que no cualquiera contaría tan libremente, y eso hace sentir una cercanía hacia ellx.
 Otro elemento llamativo es la edición del documental en sí. usa recursos visuales explicitos y sutíles, como la aparición de medusas gigantes, movimientos de cámara, desplazamiento y cambio de fondos, e incluso pantalla verde o la aparición de la artista en el fondo. También el documental cuenta con diferentes secciones (Entrevista, retrospectivas, videos, narrativas, etc) que enriquece aquello que la artista quiere contar.
@@ -740,7 +740,7 @@ Minutajes
 53:48  / 54:33 Medusa
 58:05 El fondo se aleja
 1:05:05 pantalla verde
-```
+
 
 ## TouchDesigner
 ### Mappin
@@ -924,7 +924,12 @@ destroyed and shredded fabric
 ## Proyecto Final
 ### Propuesta Conceptual
 Para esta obra usaré una tela colgada desde el techo y que será intervenida con cortes y costuras, en la cual proyectaré un video en el que se muestran distintas imagenes de forma secuencial. Dichas imagenes son planos a detalle de obras propias e imagenes creadas mediante el programa Comfy. Todas las imagenes serán modificadas, distorsionadas mediante el programa TouchDesigner. En el video, estarán acompañadas por sonidos ambiente, como crujidos, sonidos de tela y rasgaduras, el sonido de hacer las costuras y similares, con el objetivo de generar un ambiente visual y sonoro.
+
+Mi obra busca un diálogo entre la materialidad textil y los procesos a los que es sometida junto con los conflictos que puede tener un individuo, viéndolo desde una perspectiva corporal, en donde surge una necesidad por volver tangible aquello que es interno e invisible. Este trabajo toma como base los postulados de la fenomenología de la percepción de Merleau-Ponty, los conceptos de Yo-piel desarrollado por Didier Anzieu y el concepto de materia vibrante de Jane Bennet y como estos se articulan con referentes de las prácticas artísticas posmodernas y contemporáneas, siendo mis principales referentes artisticos Lygia Clark, Eva Hesse y Louise Bourgeois.
+En mi obra trabajo la materia textil como una analogía a la piel. Es un tejido poroso, maleable, sensible a la luz y al tacto. Una tela rasgada, deshilachada, anudada o teñida, conserva de manera irreversible la huella del procedimiento técnico al que fue sometida. Es así que la materialidad textil funciona como una extensión del yo piel al ser manipulada, anudada o tejida, la materia absorbe y proyecta los estados internos del cuerpo. Con esto no me refiero a que la materia aparente ser piel, sino que la tela en sí misma, por medio de sus propiedades físicas y la interacción que se tiene con ella, es equiparable a la piel y a los significados que ella implica. La materialidad y los procesos instalativos logran dar forma a conflictos no visibles al desplazar el problema desde la abstracción del discurso verbal hacia la densidad del cuerpo vivido
+
 ### Boceto
+
 ### Proyecto en TouchDesigner
 - Ejercicios: (https://drive.google.com/drive/folders/1McbCyqnrjRYxk9on3EZhM21jlKmzxWzE?usp=drive_link)
 
