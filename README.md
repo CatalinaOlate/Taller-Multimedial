@@ -1,16 +1,19 @@
-<h1 style="color: #1e88e5;">Taller-Multimedial</h1>
+# Taller-Multimedial
 
 #### Exploración creativa de arte, tecnología y medios digitales interactivos.
 ##### Cultura web y arte digital.
 
 # Indice
+### Primer Semestre
 1. [Página web](#página-web) <br>
 2. [Guión](#guión) <br>
 3. [Storyboard](#storyboard) <br>
+### Segundo Semestre
 4. [Reflexión Donna Harraway](#reflexión-donna-harraway) <br>
 5. [TouchDesigner](#touchdesigner) <br>
 6. [ComfyDesktop](#comfy-desktop) <br>
 
+# Primer Semestre
 ## Página web
 ### Semana 1:
 
@@ -716,6 +719,7 @@ En ese contacto silencioso, el cuerpo encontraba refugio.
 ## Storyboard
 ```
 ```
+# Segundo Semestre
 ## Reflexión Donna Harraway
 ```
 Lo que más me llamó la atención del documental es como se cuenta.
@@ -739,12 +743,15 @@ Minutajes
 
 ## TouchDesigner
 ### Mappin
+- Ejercicios: (https://drive.google.com/drive/folders/1vncNcfc7Vuq75uKtmF_4Ez-9E-_8oZ6s?usp=drive_link)
 
 ### Lsystem
-
+- Ejercicios: (https://drive.google.com/drive/folders/12or5FAkPDGhyzpi8yOaSKNVdDcmaLUnB?usp=drive_link)
 
 ## Comfy Desktop
 ### Prompts e imágenes
+- Ejercicios: (https://drive.google.com/drive/folders/1OA2jouAcqBLM6Y0b9rtxKvuxLNWkDbOx?usp=drive_link)
+
 ```
 Prompt 1 
 Una imagen sobre piel, que representa procesos internos en el cuerpo humano.
