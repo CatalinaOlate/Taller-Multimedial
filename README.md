@@ -920,3 +920,9 @@ Prompt 28
 destroyed and shredded fabric
 ```
 ```
+## Proyecto Final
+### Propuesta
+### Boceto
+### Proyecto en Touch
+- Ejercicios: ()
+
