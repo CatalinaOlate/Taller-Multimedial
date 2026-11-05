@@ -1,4 +1,4 @@
-# Taller-Multimedial
+<h1 style="color: #1e88e5;">Taller-Multimedial</h1>
 
 #### Exploración creativa de arte, tecnología y medios digitales interactivos.
 ##### Cultura web y arte digital.
