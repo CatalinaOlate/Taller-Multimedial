@@ -12,6 +12,7 @@
 4. [Reflexión Donna Harraway](#reflexión-donna-harraway) <br>
 5. [TouchDesigner](#touchdesigner) <br>
 6. [ComfyDesktop](#comfy-desktop) <br>
+7. [Proyecto Final](#proyecto-final) <br>
 
 # Primer Semestre
 ## Página web
@@ -922,7 +923,7 @@ destroyed and shredded fabric
 
 ## Proyecto Final
 ### Propuesta Conceptual
-#### Para esta obra usaré una tela colgada desde el techo y que será intervenida con cortes y costuras, en la cual proyectaré un video en el que se muestran distintas imagenes de forma secuencial. Dichas imagenes son planos a detalle de obras propias e imagenes creadas mediante el programa Comfy. Todas las imagenes serán modificadas, distorsionadas mediante el programa TouchDesigner. En el video, estarán acompañadas por sonidos ambiente, como crujidos, sonidos de tela y rasgaduras, el sonido de hacer las costuras y similares, con el objetivo de generar un ambiente visual y sonoro.
+Para esta obra usaré una tela colgada desde el techo y que será intervenida con cortes y costuras, en la cual proyectaré un video en el que se muestran distintas imagenes de forma secuencial. Dichas imagenes son planos a detalle de obras propias e imagenes creadas mediante el programa Comfy. Todas las imagenes serán modificadas, distorsionadas mediante el programa TouchDesigner. En el video, estarán acompañadas por sonidos ambiente, como crujidos, sonidos de tela y rasgaduras, el sonido de hacer las costuras y similares, con el objetivo de generar un ambiente visual y sonoro.
 ### Boceto
 ### Proyecto en TouchDesigner
 - Ejercicios: (https://drive.google.com/drive/folders/1McbCyqnrjRYxk9on3EZhM21jlKmzxWzE?usp=drive_link)
