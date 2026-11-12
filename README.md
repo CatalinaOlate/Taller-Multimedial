@@ -760,61 +760,61 @@ Minutajes
 ### Prompts e imágenes
 - Ejercicios: (https://drive.google.com/drive/folders/1OA2jouAcqBLM6Y0b9rtxKvuxLNWkDbOx?usp=drive_link)
 
-```
+
 Prompt 1 
 Una imagen sobre piel, que representa procesos internos en el cuerpo humano.
 Visualmente abstracta. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos extra.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/1.png?raw=true"/>
 
 Prompt 2
 Una imagen sobre un acercamiento a la piel, que representa procesos internos en el cuerpo humano.
 Visualmente realista. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos extra.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/2.png?raw=true"/>
 
 Prompt 3
 Una imagen sobre un acercamiento a la piel, que representa procesos internos en el cuerpo humano.
 Visualmente realista pero abstracta. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos distinguibles.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/3.png?raw=true"/>
 
 Prompt 4
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente realista pero abstracta, donde no se distingue la parte del cuerpo. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos distinguibles.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/4.png?raw=true"/>
 
 Prompt 5
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente realista pero abstracta, donde no se distingue la parte del cuerpo pero si los poros, bello y otros elementos de la piel.
 La composición es cerrada, en plano a detalle, con una atmósfera neutra. Sin otros elementos.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/5.png?raw=true"/>
 
 Prompt 6
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente realista pero abstracta, donde no se distingue la parte del cuerpo pero si los poros, bello, lunares, venas, cicatrices o marcas.
 La composición es cerrada, en plano a detalle, con una atmósfera neutra y poca iluminación. Sin otros elementos.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/6.png?raw=true"/>
 
 Prompt 7
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue la parte del cuerpo pero si los poros, bello, lunares, venas, cicatrices o marcas.
 La composición es cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/7.png?raw=true"/>
 
 Prompt 8
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue la parte del cuerpo pero si los poros, bellos, lunares, venas, cicatrices y marcas de la piel de forma detallada.
 La composición es cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/8.png?raw=true"/>
 
 Prompt 9
@@ -828,14 +828,14 @@ Prompt 10
 Una imagen de acercamiento a la piel desde una muy corta distancia, que representa procesos y conflictos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue la parte del cuerpo pero si los poros, venas, cicatrices, enrojecimiento, heridas e imperfecciones de la piel de forma detallada, en el que intervienen elementos textiles como hilos y telas.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/10.png?raw=true"/>
 
 Prompt 11
 Una imagen de acercamiento a la piel desde una muy corta distancia, que representa procesos y conflictos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue el cuerpo pero si los poros, venas, cicatrices, heridas e imperfecciones de la piel, en el que intervienen elementos textiles como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/11.png?raw=true"/>
 
 Prompt 12
@@ -843,63 +843,63 @@ Una imagen de acercamiento a la piel desde una muy corta distancia, que represen
 Visualmente abstracta, donde no se distingue el cuerpo pero si los poros, venas, cicatrices, heridas e imperfecciones de la piel, fusionando texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación.
 Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/12.png?raw=true"/>
 
 Prompt 13
 Una imagen de acercamiento a la piel desde una muy corta distancia, que representa procesos y conflictos internos en el cuerpo humano por medio de tecnicas textiles.
 Visualmente abstracta, donde se reemplaza la piel los poros, venas, cicatrices, heridas e imperfecciones de la piel, por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/13.png?raw=true"/>
 
 Prompt 14
 Una imagen que representa procesos y conflictos internos en el cuerpo humano por medio de tecnicas textiles y la abstracción.
 Visualmente abstracta y deformada, donde se reemplaza la piel, los poros, venas, cicatrices, heridas e imperfecciones de la piel, por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/14.png?raw=true"/>
 
 Prompt 15
 Una imagen que representa procesos y conflictos internos en el cuerpo humano por medio de tecnicas textiles y la abstracción.
 Visualmente abstracta y deformada, donde se elimina la figura humana y elementos como la piel, los poros, venas, cicatrices, heridas e imperfecciones de la piel se reemplazan por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/15.png?raw=true"/>
 
 Prompt 16
 Una imagen que representa procesos y conflictos internos en el cuerpo humano por medio de tecnicas textiles y la abstracción.
 Visualmente abstracta y deformada, donde se elimina la figura humana y elementos como la piel, los poros, venas, cicatrices, heridas e imperfecciones de la piel se reemplazan por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/16.png?raw=true"/>
 
 Prompt 17
 Una imagen que representa procesos y conflictos internos desde la piel por medio de tecnicas textiles y la abstracción.
 Visualmente abstracta y deformada, donde las cicatrices, heridas e imperfecciones de la piel se reemplazan por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/17.png?raw=true"/>
 
 Prompt 18
 Una imagen que representa tecnicas textiles y la abstracción haciendo una analogía desde la piel.
 Visualmente abstracta y deformada, donde las cicatrices, heridas e imperfecciones de la piel se reemplazan por texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/18.png?raw=true"/>
 
 Prompt 19
 Una imagen que representa tecnicas textiles y la abstracción 
 Visualmente abstracta y deformada, aparecen texturas como hilos, telas y costuras.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/19.png?raw=true"/>
 
 Prompt 20
 Una imagen que representa tecnicas textiles y la abstracción 
 Visualmente abstracta y deformada, aparecen texturas como hilos, telas desgarradas y costuras. de apariencia desordenada y caotica.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/20.png?raw=true"/>
 
 Prompt 21
@@ -913,43 +913,43 @@ Prompt 22
 Una imagen que representa tecnicas textiles y la abstracción 
 Visualmente abstracta y deformada, aparecen texturas como hilos, telas desgarradas y costuras mal hechas, de apariencia desordenada, caotica y visceral.
 La composición es muy cerrada, en plano a detalle, con una atmósfera cálida y baja iluminación. 
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/22.png?raw=true"/>
 
 Prompt 23
 An image representing textile techniques and abstraction.
 Visually abstract and distorted, it features textures such as threads, torn fabrics, and crude stitching, creating a chaotic, visceral, and disheveled appearance.
 The composition is tightly framed—a close-up shot—set in a warm atmosphere with low lighting.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/23.png?raw=true"/>
 
 Prompt 24
 An image representing textile techniques and abstraction.
 Visually abstract and distorted, it features textures such as threads, torn and frayed fabrics, and crude stitching, creating a chaotic, visceral, and disheveled appearance.
 The composition is tightly framed—a close-up shot—set in a warm backlit atmosphere.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/24.png?raw=true"/>
 
 Prompt 25
 An image representing textile techniques and abstraction.
 Visually abstract and distorted, it features textures such as threads, torn and frayed fabrics, and crude stitching, creating a chaotic, visceral, and disheveled appearance.
 The composition is tightly framed—a close-up shot—set in a warm backlit atmosphere that gives it the appearance of a painting
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/25.png?raw=true"/>
 
 Prompt 26
 A visually abstract and distorted image featuring textures such as threads, torn and frayed fabrics, and seams with a disordered, chaotic, and visceral appearance.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/26.png?raw=true"/>
 
 Prompt 27
 destroyed fabric
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/27.png?raw=true"/>
 
 Prompt 28
 destroyed and shredded fabric
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/28.png?raw=true"/>
 
 ## Proyecto Final
