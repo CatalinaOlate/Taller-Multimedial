@@ -906,7 +906,7 @@ Prompt 21
 Una imagen que representa tecnicas textiles y la abstracción 
 Visualmente abstracta y deformada, aparecen texturas como hilos, telas desgarradas y costuras mal hechas. de apariencia desordenada y caotica.
 La composición es muy cerrada, en plano a detalle, con una atmósfera cálida y baja iluminación. Sin otros elementos distinguibles ni realistas.
-```
+
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/21.png?raw=true"/>
 
 Prompt 22
