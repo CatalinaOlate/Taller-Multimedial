@@ -722,8 +722,6 @@ En ese contacto silencioso, el cuerpo encontraba refugio.
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Storyboard2.jpg?raw=true"/>
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Storyboard3.jpg?raw=true"/>
 
-```
-```
 # Segundo Semestre
 ## Reflexión Donna Harraway
 
@@ -768,7 +766,7 @@ Una imagen sobre piel, que representa procesos internos en el cuerpo humano.
 Visualmente abstracta. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos extra.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/1.png?raw=true"/>
 
 ```
 Prompt 2
@@ -776,7 +774,7 @@ Una imagen sobre un acercamiento a la piel, que representa procesos internos en 
 Visualmente realista. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos extra.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/2.png?raw=true"/>
 
 ```
 Prompt 3
@@ -784,56 +782,56 @@ Una imagen sobre un acercamiento a la piel, que representa procesos internos en 
 Visualmente realista pero abstracta. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos distinguibles.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/3.png?raw=true"/>
 ```
 Prompt 4
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente realista pero abstracta, donde no se distingue la parte del cuerpo. La composición es cerrada, en plano a detalle, con una atmósfera neutra.
 Sin elementos distinguibles.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/4.png?raw=true"/>
 ```
 Prompt 5
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente realista pero abstracta, donde no se distingue la parte del cuerpo pero si los poros, bello y otros elementos de la piel.
 La composición es cerrada, en plano a detalle, con una atmósfera neutra. Sin otros elementos.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/5.png?raw=true"/>
 ```
 Prompt 6
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente realista pero abstracta, donde no se distingue la parte del cuerpo pero si los poros, bello, lunares, venas, cicatrices o marcas.
 La composición es cerrada, en plano a detalle, con una atmósfera neutra y poca iluminación. Sin otros elementos.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/6.png?raw=true"/>
 ```
 Prompt 7
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue la parte del cuerpo pero si los poros, bello, lunares, venas, cicatrices o marcas.
 La composición es cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/7.png?raw=true"/>
 ```
 Prompt 8
 Una imagen sobre un acercamiento a la piel a una muy corta distancia, que representa procesos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue la parte del cuerpo pero si los poros, bellos, lunares, venas, cicatrices y marcas de la piel de forma detallada.
 La composición es cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/8.png?raw=true"/>
 ```
 Prompt 9
 Una imagen de acercamiento a la piel desde una muy corta distancia, que representa procesos y conflictos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue la parte del cuerpo pero si los poros, venas, cicatrices, enrojecimiento, heridas e imperfecciones de la piel de forma detallada.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/9.png?raw=true"/>
 ```
 Prompt 10
 Una imagen de acercamiento a la piel desde una muy corta distancia, que representa procesos y conflictos internos en el cuerpo humano.
 Visualmente abstracta, donde no se distingue la parte del cuerpo pero si los poros, venas, cicatrices, enrojecimiento, heridas e imperfecciones de la piel de forma detallada, en el que intervienen elementos textiles como hilos y telas.
 La composición es muy cerrada, en plano a detalle, con una atmósfera neutra y baja iluminación. Sin otros elementos distinguibles.
 ```
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Ima%CC%81genes%20Prompts/10.png?raw=true"/>
 ```
 Prompt 11
 Una imagen de acercamiento a la piel desde una muy corta distancia, que representa procesos y conflictos internos en el cuerpo humano.
