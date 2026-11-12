@@ -718,6 +718,10 @@ que no podía ser dicho.
 En ese contacto silencioso, el cuerpo encontraba refugio.
 ```
 ## Storyboard
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Storyboard1.jpg?raw=true"/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Storyboard2.jpg?raw=true"/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Storyboard3.jpg?raw=true"/>
+
 ```
 ```
 # Segundo Semestre
@@ -744,13 +748,13 @@ Minutajes
 
 ## TouchDesigner
 ### Mappin
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Mapping.png?raw=true"/>
 
 - Ejercicios: (https://drive.google.com/drive/folders/1vncNcfc7Vuq75uKtmF_4Ez-9E-_8oZ6s?usp=drive_link)
 
 ### Lsystem
-<img src=""/>
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Lsystem1.png?raw=true"/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Lsystem2.png?raw=true"/>
 
 - Ejercicios: (https://drive.google.com/drive/folders/12or5FAkPDGhyzpi8yOaSKNVdDcmaLUnB?usp=drive_link)
 
@@ -970,7 +974,7 @@ Sala 22
 - Link: (https://docs.google.com/document/d/1650SeHglLiJzh8jT3097IZR-_LBfnnprh43Yso2rQiY/edit?tab=t.0)
 
 ### Proyecto en TouchDesigner
-<img src=""/>
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Proyecto1.png?raw=true"/>
 - Ejercicios: (https://drive.google.com/drive/folders/1McbCyqnrjRYxk9on3EZhM21jlKmzxWzE?usp=drive_link)
 
 ### Material Audiovisual
