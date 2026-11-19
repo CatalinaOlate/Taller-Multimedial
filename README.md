@@ -970,7 +970,10 @@ Proyector, video digital, h264 1080p.
 
 ### Proyecto en TouchDesigner
 <img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Proyecto1.png?raw=true"/>
-- Ejercicios: (https://drive.google.com/drive/folders/1McbCyqnrjRYxk9on3EZhM21jlKmzxWzE?usp=drive_link)
+<img src="https://github.com/CatalinaOlate/Taller-Multimedial/blob/main/Imagenes%20github/Proyecto2.png?raw=true"/>
+- Ejercicios: (https://drive.google.com/drive/folders/1y8vZb9Eyvz-iyHO2qHCJ3eYpxgX89dka)
 
 ### Material Audiovisual
-- Ejercicios: (https://drive.google.com/drive/folders/1Ofz_YGi4x8TF9_-PwdKz5hat7f4n62Ub?usp=drive_link)
+- Imágenes y audios: (https://drive.google.com/drive/folders/1Ofz_YGi4x8TF9_-PwdKz5hat7f4n62Ub?usp=drive_link)
+- Grabación de pantalla: (https://drive.google.com/drive/folders/1elAHwPVuz4bkrdkAoVzeErs8DRscoGlj)
+
