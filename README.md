@@ -978,5 +978,4 @@ Proyector, video digital, h264 1080p.
 - Grabación de pantalla: (https://drive.google.com/drive/folders/1elAHwPVuz4bkrdkAoVzeErs8DRscoGlj)
 
 ### Entrega Final
-- Video: (https://drive.google.com/drive/folders/1A0zuYWn0uc1I_PhfzM6vTbLGS02WnoWg)
-- 
+- Video: (https://drive.google.com/drive/folders/1A0zuYWn0uc1I_PhfzM6vTbLGS02WnoWg) 
